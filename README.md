@@ -4,7 +4,7 @@
 [Download (v2.0.0) of the template with samples from GitHub ](https://github.com/jeffcoughlin/Behringer-x-Air-XR18-Magnetic-Faceplate-Template/archive/2.0.0.zip)
 
 ### YouTube Video
-[![N|Solid](https://i9.ytimg.com/vi/elAR5zKiPm8/mqdefault.jpg?time=1594337830181&sqp=CKTTnvgF&rs=AOn4CLDQj5aAGcmSpzE6WL-TB4o5UoduIw)](https://youtu.be/elAR5zKiPm8)
+[![N|Solid](http://i3.ytimg.com/vi/elAR5zKiPm8/hqdefault.jpg)](https://youtu.be/elAR5zKiPm8)
 
 Here is a quick [video tutorial](https://youtu.be/elAR5zKiPm8) on how to modify the template.
 
